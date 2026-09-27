@@ -1,0 +1,786 @@
+{
+  "schema": 1,
+  "courseId": 2084,
+  "repository": "LearningOS/2026a-rustling-ZGRX",
+  "commit": "6fdc6b565d29e90eff349fe81fdc32c1dfb41e55",
+  "score": 32,
+  "totalScore": 110,
+  "exercises": [
+    {
+      "name": "intro2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables3",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables4",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables5",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "variables6",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "functions1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "functions2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "functions3",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "functions4",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "functions5",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "if1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "if2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "if3",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "quiz1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types3",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types4",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types5",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "primitive_types6",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "vecs1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "vecs2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics3",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics4",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics5",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "move_semantics6",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "structs1",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "structs2",
+      "max": 1,
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
+    },
+    {
+      "name": "structs3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "enums1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "enums2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "enums3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "strings1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "strings2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "strings3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "strings4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "modules1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "modules2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "modules3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "hashmaps1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "hashmaps2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "hashmaps3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "quiz2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "options1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "options2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "options3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors5",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "errors6",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "generics1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "generics2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "traits1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "traits2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "traits3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "traits4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "traits5",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "quiz3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "lifetimes1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "lifetimes2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "lifetimes3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "iterators1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "iterators2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "iterators3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "iterators4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "iterators5",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "box1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "rc1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "arc1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "cow1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "threads1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "threads2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "threads3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "macros1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "macros2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "macros3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "macros4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "clippy1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "clippy2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "clippy3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "using_as",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "from_into",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "from_str",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "try_from_into",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "as_ref_mut",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests5",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests6",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests7",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests8",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "tests9",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm1",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm2",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm3",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm4",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm5",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm6",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm7",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm8",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm9",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    },
+    {
+      "name": "algorithm10",
+      "max": 1,
+      "score": 0,
+      "status": "fail",
+      "exitCode": 1
+    }
+  ],
+  "student": "ZGRX",
+  "runId": "36291016836",
+  "runAttempt": "1",
+  "upload": {
+    "status": "pending"
+  }
+}
