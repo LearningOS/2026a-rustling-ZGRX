@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-ZGRX",
-  "commit": "fb752a524aec3f99833c4d7dfc10cb5ab4a7daa6",
-  "score": 57,
+  "commit": "da8f5dbe282526c07f7f847a5a2892683adbff7c",
+  "score": 60,
   "totalScore": 110,
   "exercises": [
     {
@@ -408,23 +408,23 @@
     {
       "name": "generics2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "traits3",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "ZGRX",
-  "runId": "37331124357",
+  "runId": "37489841433",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
